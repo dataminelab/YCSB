@@ -18,7 +18,7 @@
     </dependency>
     <dependency>
 	  <groupId>org.apache.hadoop</groupId>
-      <artifactId>hadoop-common</artifactId>
+      <artifactId>hadoop-core</artifactId>
       <version>${hadoop.version}</version>
     </dependency>
     <dependency>

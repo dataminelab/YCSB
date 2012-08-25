@@ -44,8 +44,8 @@
   <!-- Properties Management -->
   <properties>
     <maven.assembly.version>2.2.1</maven.assembly.version>
-    <hbase.version>0.92.0</hbase.version>
-    <hadoop.version>0.22.0</hadoop.version>
+    <hbase.version>0.92.1</hbase.version>
+    <hadoop.version>1.0.3</hadoop.version>
     <cassandra.version>0.7.0</cassandra.version>
     <infinispan.version>7.1.0.CR1</infinispan.version>
     <openjpa.jdbc.version>2.1.1</openjpa.jdbc.version>
